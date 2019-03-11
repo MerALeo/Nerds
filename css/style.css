@@ -27,7 +27,7 @@ button:focus {
 
 .header {
 	background-image: url(../img/grey-back.png);
-	height: 100vh;
+	/*height: 100vh;*/
 }
 
 .menu, 
